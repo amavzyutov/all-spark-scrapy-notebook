@@ -10,4 +10,4 @@ RUN apt-get update \
  && pip install scrapy_splash
  
  RUN conda install -p /opt/conda/envs/python2 scrapy \
- && conda install -p /opt/conda/envs/python2 scrapy_splahs
+ && conda install -p /opt/conda/envs/python2 scrapy_splash
